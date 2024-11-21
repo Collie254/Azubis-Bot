@@ -25,7 +25,7 @@ base_headers = {
     "referer": "https://azubis.live/",
     "accept-language": "en-GB,en-US;q=0.9,en;q=0.8"
 }
-_link = input("tiktok link: ")
+_link = input("tiktok link:https://vm.tiktok.com/ZMhWToV7X/ ")
 
 def __send_views(__session__, __key__, link):
     # link       = "https://www.tiktok.com/@fefepixart/video/7106016809131805958"
